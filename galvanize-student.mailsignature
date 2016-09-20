@@ -1,21 +1,20 @@
-<h2 style="font-family:Lucida Console, Monaco, monospace; margin-bottom:5px; color:black !important;">Tommy Gaessler - <img style="height:20px; vertical-align: -webkit-baseline-middle;
-;" src="http://www.galvanize.com/wp-content/themes/galvanize/img/galvanize-g.svg" alt="" />30</h2>
+<h3 style="font-family:Lucida Console, Monaco, monospace; margin-bottom:5px; color:black !important;">Tommy Gaessler - <img style="height:15px; vertical-align: -webkit-baseline-middle;
+;" src="http://www.galvanize.com/wp-content/themes/galvanize/favicon.ico" alt="" />30</h3>
 <div style="display:inline; float:left;">
-  <a href="http://twitter.com/tommygaessler" target="_blank"><img style="width:25px; display:block; margin-top:0" src="http://upload.wikimedia.org/wikipedia/it/0/09/Twitter_bird_logo.png" alt="" /></a>
-  <a href="http://github.com/tommygaessler" target="_blank"><img style="width:20px; display:block; margin-top:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png" alt="" /></a>
-  <a href="http://linkedin.com/in/tommygaessler" target="_blank"><img style="width:20px; margin-right:0; display:block; margin-top:9px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="" /></a>
+  <a href="http://twitter.com/tommygaessler" target="_blank"><img style="width:20px; display:block; margin-top:3px" src="http://upload.wikimedia.org/wikipedia/it/0/09/Twitter_bird_logo.png" alt="" /></a>
+  <a href="http://github.com/tommygaessler" target="_blank"><img style="width:17px; display:block; margin-top:7px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png" alt="" /></a>
+  <a href="http://linkedin.com/in/tommygaessler" target="_blank"><img style="width:17px; margin-right:0; display:block; margin-top:9px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="" /></a>
 </div>
 <div style="border-left: 3px solid black; float: left; display:inline; width:260px; padding-left:15px; margin-left:12px; font-family:Courier New, Courier, monospace; font-size:14px; padding-bottom: 2px">
 
-  <p style="margin-top:0; margin-bottom:0;"><a style="color: black !important; text-decoration:none" href="http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/">Full Stack</a><span style="color: black !important;"> Student </span><a style="color:orange !important; text-decoration:none" href="http://galvanize.com">@galvanize</a>!</p>
+  <p style="font-size:12.5px; margin-top:0; margin-bottom:0;"><a style="color: black !important; text-decoration:none" href="http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/">Full Stack</a><span style="color: black !important;"> Student </span><a style="color:orange !important; text-decoration:none" href="http://galvanize.com">@galvanize</a>!</p>
 
 
-  <p style="margin-top:5px; margin-bottom:0;"><a style="color: #0073aa !important; text-decoration:none;" href="https://wordpress.org/">Wordpress</a><span style="color: black !important;"> Web Designer!</span></p>
+  <p style="font-size:12.5px; margin-top:5px; margin-bottom:0;"><a style="color: #0073aa !important; text-decoration:none;" href="https://wordpress.org/">Wordpress</a><span style="color: black !important;"> Web Designer!</span></p>
 
 
-  <p style="margin-top:5px; margin-bottom:0;"><a style="color:red !important; text-decoration:none" href="http://tommygaessler.com">tommygaessler.com</a></p>
+  <p style="font-size:12.5px; margin-top:5px; margin-bottom:0;"><a style="color:red !important; text-decoration:none" href="http://tommygaessler.com">tommygaessler.com</a></p>
 
-  <p style="margin-top:5px; margin-bottom:0;"><span style="color:black !important text-decoration:none !important;">303-565-0001</span></p>
+  <p style="font-size:12.5px; margin-top:5px; margin-bottom:0;"><span style="color:black !important text-decoration:none !important;">303-565-0001</span></p>
 </div>
-
 <div style="clear:both; margin-bottom:40px"></div>
